@@ -1,0 +1,3 @@
+# Core assistant uses the Python 3.11+ standard library: no PyAudio or Selenium.
+# Timezone database is useful on Windows; UTC/Asia-Kolkata work without it.
+tzdata>=2024.1
